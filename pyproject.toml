@@ -1,0 +1,15 @@
+[project]
+name = "minimal-news-digest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-community>=0.3.29",
+    "langgraph>=0.6.7",
+    "numpy>=2.3.3",
+    "openai>=1.108.1",
+    "pydantic>=2.11.9",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.2",
+]

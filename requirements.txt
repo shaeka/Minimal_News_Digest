@@ -1,0 +1,7 @@
+openai
+langgraph
+python-dotenv
+pydantic
+langchain_community
+scikit-learn
+numpy
